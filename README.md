@@ -1,3 +1,5 @@
+# Phreddit
+Phreddit is a full-stack Reddit clone. Phreddit employs the MERN stack (MongoDB, Express.js, React, Node.js) and it is complete with user accounts and secure authentication (bcrypt), subreddit and post creation, a voting/karma mechanism, and role-based privileges (user vs moderator vs admin).
 ## Running Instructions
 - Make sure nodejs is installed. If it's not, install [here](https://nodejs.org/en/download)
 - Make sure mongoDB is installed. If it's not, install the [community edition](https://www.mongodb.com/docs/manual/administration/install-community/)
